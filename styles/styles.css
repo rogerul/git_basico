@@ -110,7 +110,8 @@ h1,h2,h3,h4,h5,h6{
     font-size: 25px;
     margin: 5px 0 10px 0;
     text-transform: uppercase;
-    letter-spacing: 5px;
+    letter-spacing: 8px;
+    font-weight: 300;
 }
 
 .infoContent .block h3 a {
@@ -149,7 +150,7 @@ h1,h2,h3,h4,h5,h6{
     transform: scale(1.3);
     letter-spacing: 2px;
     background-color: #5911DC;
-    color: white;
+    color: yellow;
 }
 .fa:hover{
     transition: 0.3s;
