@@ -91,11 +91,12 @@ h1,h2,h3,h4,h5,h6{
 .info h2{
     font-family: 'Signika Negative', sans-serif;
     text-shadow: 4px 4px 5px rgba(0,0,0,0.5);
-    font-size: 50px;
+    font-size: 54px;
     margin: 15px 0;
     text-align: center;
     text-transform: uppercase;
     letter-spacing: 5px;
+    color: #FBD655;
 }
 
 .infoContent{
@@ -109,7 +110,7 @@ h1,h2,h3,h4,h5,h6{
     font-family: 'Signika Negative', sans-serif;
     font-size: 25px;
     margin: 5px 0 10px 0;
-    text-transform: uppercase;
+    text-transform: lowercase;
     letter-spacing: 8px;
     font-weight: 300;
 }
